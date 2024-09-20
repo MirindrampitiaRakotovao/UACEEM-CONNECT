@@ -1,2 +1,2 @@
 # UACEEM-CONNECT
-Stockage de code
+Ecosysteme social pour les personnels de l'UACEEM 
